@@ -1,0 +1,39 @@
+{
+  "group": "magicdevelopment",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "magicdevelopment:steel_slag"
+    },
+    "2": {
+      "item": "magicdevelopment:steel_slag"
+    },
+    "3": {
+      "item": "magicdevelopment:steel_slag"
+    },
+    "4": {
+      "item": "magicdevelopment:steel_slag"
+    },
+    "5": {
+      "item": "magicdevelopment:steel_slag"
+    },
+    "6": {
+      "item": "magicdevelopment:steel_slag"
+    },
+    "7": {
+      "item": "magicdevelopment:steel_slag"
+    },
+    "8": {
+      "item": "magicdevelopment:steel_slag"
+    }
+  },
+  "result": {
+    "item": "magicdevelopment:steel_chestplate",
+    "count": 1
+  }
+}

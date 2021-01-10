@@ -1,0 +1,29 @@
+{
+  "group": "magicdevelopment",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "magicdevelopment:steel_slag"
+    },
+    "1": {
+      "item": "magicdevelopment:steel_slag"
+    },
+    "2": {
+      "item": "magicdevelopment:steel_slag"
+    },
+    "3": {
+      "item": "magicdevelopment:steel_slag"
+    },
+    "5": {
+      "item": "magicdevelopment:steel_slag"
+    }
+  },
+  "result": {
+    "item": "magicdevelopment:steel_helmet",
+    "count": 1
+  }
+}

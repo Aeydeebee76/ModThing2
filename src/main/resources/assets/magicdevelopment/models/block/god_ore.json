@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "magicdevelopment:blocks/god_set_ore",
+    "up": "magicdevelopment:blocks/god_set_ore",
+    "north": "magicdevelopment:blocks/god_set_ore",
+    "east": "magicdevelopment:blocks/god_set_ore",
+    "south": "magicdevelopment:blocks/god_set_ore",
+    "west": "magicdevelopment:blocks/god_set_ore",
+    "particle": "magicdevelopment:blocks/god_set_ore"
+  }
+}

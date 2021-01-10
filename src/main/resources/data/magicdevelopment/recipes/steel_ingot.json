@@ -1,0 +1,25 @@
+{
+  "group": "magicdevelopment",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:coal_block"
+    }
+  ],
+  "result": {
+    "item": "magicdevelopment:steel_slag",
+    "count": 4
+  }
+}

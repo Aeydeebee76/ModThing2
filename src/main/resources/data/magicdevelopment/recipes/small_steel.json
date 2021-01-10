@@ -1,0 +1,19 @@
+{
+  "group": "magicdevelopment",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "item": "minecraft:coal_block"
+    }
+  },
+  "result": {
+    "item": "magicdevelopment:steel_slag",
+    "count": 1
+  }
+}

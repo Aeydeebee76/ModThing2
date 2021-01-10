@@ -1,0 +1,42 @@
+{
+  "group": "magicdevelopment",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "magicdevelopment:god_ingot"
+    },
+    "1": {
+      "item": "minecraft:nether_star"
+    },
+    "2": {
+      "item": "magicdevelopment:god_ingot"
+    },
+    "3": {
+      "item": "minecraft:gold_block"
+    },
+    "4": {
+      "item": "magicdevelopment:steel_chestplate"
+    },
+    "5": {
+      "item": "minecraft:gold_block"
+    },
+    "6": {
+      "item": "magicdevelopment:steel_slag"
+    },
+    "7": {
+      "item": "minecraft:obsidian"
+    },
+    "8": {
+      "item": "magicdevelopment:steel_slag"
+    }
+  },
+  "result": {
+    "item": "magicdevelopment:god_chestplate",
+    "count": 1
+  }
+}
